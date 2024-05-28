@@ -1,2 +1,2 @@
 # CSM-158-C-
-My C++ Journey in KNUST. 
+My name is Michael Oti Yamoah and I'm documenting my C++ Journey in KNUST. 
